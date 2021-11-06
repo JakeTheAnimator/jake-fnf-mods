@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "coiny",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "OK that's it you gone too far!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "coiny",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "You think you came here to call me stupid?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "coiny",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "I'M NOT STUPID LITTLE MAN!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bop boop bap."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "coiny",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "GRRRRR!!!"
+		}
+	]
+}

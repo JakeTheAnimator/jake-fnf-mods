@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Coiny.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Coiny Down Note0000" x="0" y="0" width="272" height="234" frameX="0" frameY="-3" frameWidth="272" frameHeight="237"/>
+	<SubTexture name="Coiny Down Note0001" x="0" y="0" width="272" height="234" frameX="0" frameY="-3" frameWidth="272" frameHeight="237"/>
+	<SubTexture name="Coiny Down Note0002" x="272" y="0" width="268" height="237" frameX="-2" frameY="0" frameWidth="272" frameHeight="237"/>
+	<SubTexture name="Coiny Down Note0003" x="272" y="0" width="268" height="237" frameX="-2" frameY="0" frameWidth="272" frameHeight="237"/>
+	<SubTexture name="Coiny Down Note0004" x="272" y="0" width="268" height="237" frameX="-2" frameY="0" frameWidth="272" frameHeight="237"/>
+	<SubTexture name="Coiny Down Note0005" x="272" y="0" width="268" height="237" frameX="-2" frameY="0" frameWidth="272" frameHeight="237"/>
+	<SubTexture name="Coiny Down Note0006" x="272" y="0" width="268" height="237" frameX="-2" frameY="0" frameWidth="272" frameHeight="237"/>
+	<SubTexture name="Coiny Down Note0007" x="272" y="0" width="268" height="237" frameX="-2" frameY="0" frameWidth="272" frameHeight="237"/>
+	<SubTexture name="Coiny Down Note0008" x="272" y="0" width="268" height="237" frameX="-2" frameY="0" frameWidth="272" frameHeight="237"/>
+	<SubTexture name="Coiny Down Note0009" x="272" y="0" width="268" height="237" frameX="-2" frameY="0" frameWidth="272" frameHeight="237"/>
+	<SubTexture name="Coiny Down Note0010" x="272" y="0" width="268" height="237" frameX="-2" frameY="0" frameWidth="272" frameHeight="237"/>
+	<SubTexture name="Coiny Idle Dance0000" x="540" y="0" width="347" height="233" frameX="-3" frameY="-12" frameWidth="353" frameHeight="245"/>
+	<SubTexture name="Coiny Idle Dance0001" x="540" y="0" width="347" height="233" frameX="-3" frameY="-12" frameWidth="353" frameHeight="245"/>
+	<SubTexture name="Coiny Idle Dance0002" x="887" y="0" width="349" height="238" frameX="-1" frameY="-6" frameWidth="353" frameHeight="245"/>
+	<SubTexture name="Coiny Idle Dance0003" x="887" y="0" width="349" height="238" frameX="-1" frameY="-6" frameWidth="353" frameHeight="245"/>
+	<SubTexture name="Coiny Idle Dance0004" x="1236" y="0" width="351" height="241" frameX="0" frameY="-3" frameWidth="353" frameHeight="245"/>
+	<SubTexture name="Coiny Idle Dance0005" x="1236" y="0" width="351" height="241" frameX="0" frameY="-3" frameWidth="353" frameHeight="245"/>
+	<SubTexture name="Coiny Idle Dance0006" x="1587" y="0" width="353" height="243" frameX="0" frameY="-1" frameWidth="353" frameHeight="245"/>
+	<SubTexture name="Coiny Idle Dance0007" x="1587" y="0" width="353" height="243" frameX="0" frameY="-1" frameWidth="353" frameHeight="245"/>
+	<SubTexture name="Coiny Idle Dance0008" x="0" y="243" width="352" height="244" frameX="-1" frameY="0" frameWidth="353" frameHeight="245"/>
+	<SubTexture name="Coiny Idle Dance0009" x="0" y="243" width="352" height="244" frameX="-1" frameY="0" frameWidth="353" frameHeight="245"/>
+	<SubTexture name="Coiny Idle Dance0010" x="0" y="243" width="352" height="244" frameX="-1" frameY="0" frameWidth="353" frameHeight="245"/>
+	<SubTexture name="Coiny Idle Dance0011" x="0" y="243" width="352" height="244" frameX="-1" frameY="0" frameWidth="353" frameHeight="245"/>
+	<SubTexture name="Coiny Idle Dance0012" x="0" y="243" width="352" height="244" frameX="-1" frameY="0" frameWidth="353" frameHeight="245"/>
+	<SubTexture name="Coiny Idle Dance0013" x="0" y="243" width="352" height="244" frameX="-1" frameY="0" frameWidth="353" frameHeight="245"/>
+	<SubTexture name="Coiny NOTE LEFT0000" x="352" y="243" width="280" height="242" frameX="0" frameY="0" frameWidth="282" frameHeight="242"/>
+	<SubTexture name="Coiny NOTE LEFT0001" x="352" y="243" width="280" height="242" frameX="0" frameY="0" frameWidth="282" frameHeight="242"/>
+	<SubTexture name="Coiny NOTE LEFT0002" x="632" y="243" width="277" height="242" frameX="-5" frameY="0" frameWidth="282" frameHeight="242"/>
+	<SubTexture name="Coiny NOTE LEFT0003" x="632" y="243" width="277" height="242" frameX="-5" frameY="0" frameWidth="282" frameHeight="242"/>
+	<SubTexture name="Coiny NOTE LEFT0004" x="632" y="243" width="277" height="242" frameX="-5" frameY="0" frameWidth="282" frameHeight="242"/>
+	<SubTexture name="Coiny NOTE LEFT0005" x="632" y="243" width="277" height="242" frameX="-5" frameY="0" frameWidth="282" frameHeight="242"/>
+	<SubTexture name="Coiny NOTE LEFT0006" x="632" y="243" width="277" height="242" frameX="-5" frameY="0" frameWidth="282" frameHeight="242"/>
+	<SubTexture name="Coiny NOTE LEFT0007" x="632" y="243" width="277" height="242" frameX="-5" frameY="0" frameWidth="282" frameHeight="242"/>
+	<SubTexture name="Coiny NOTE LEFT0008" x="632" y="243" width="277" height="242" frameX="-5" frameY="0" frameWidth="282" frameHeight="242"/>
+	<SubTexture name="Coiny NOTE LEFT0009" x="632" y="243" width="277" height="242" frameX="-5" frameY="0" frameWidth="282" frameHeight="242"/>
+	<SubTexture name="Coiny NOTE LEFT0010" x="632" y="243" width="277" height="242" frameX="-5" frameY="0" frameWidth="282" frameHeight="242"/>
+	<SubTexture name="Coiny NOTE LEFT0011" x="632" y="243" width="277" height="242" frameX="-5" frameY="0" frameWidth="282" frameHeight="242"/>
+	<SubTexture name="Coiny NOTE LEFT0012" x="632" y="243" width="277" height="242" frameX="-5" frameY="0" frameWidth="282" frameHeight="242"/>
+	<SubTexture name="Coiny NOTE LEFT0013" x="632" y="243" width="277" height="242" frameX="-5" frameY="0" frameWidth="282" frameHeight="242"/>
+	<SubTexture name="Coiny NOTE LEFT0014" x="632" y="243" width="277" height="242" frameX="-5" frameY="0" frameWidth="282" frameHeight="242"/>
+	<SubTexture name="Coiny NOTE LEFT0015" x="632" y="243" width="277" height="242" frameX="-5" frameY="0" frameWidth="282" frameHeight="242"/>
+	<SubTexture name="Coiny NOTE LEFT0016" x="632" y="243" width="277" height="242" frameX="-5" frameY="0" frameWidth="282" frameHeight="242"/>
+	<SubTexture name="Coiny Note Right0000" x="909" y="243" width="299" height="240" frameX="-4" frameY="0" frameWidth="303" frameHeight="240"/>
+	<SubTexture name="Coiny Note Right0001" x="909" y="243" width="299" height="240" frameX="-4" frameY="0" frameWidth="303" frameHeight="240"/>
+	<SubTexture name="Coiny Note Right0002" x="1208" y="243" width="294" height="240" frameX="0" frameY="0" frameWidth="303" frameHeight="240"/>
+	<SubTexture name="Coiny Note Right0003" x="1208" y="243" width="294" height="240" frameX="0" frameY="0" frameWidth="303" frameHeight="240"/>
+	<SubTexture name="Coiny Note Right0004" x="1208" y="243" width="294" height="240" frameX="0" frameY="0" frameWidth="303" frameHeight="240"/>
+	<SubTexture name="Coiny Note Right0005" x="1208" y="243" width="294" height="240" frameX="0" frameY="0" frameWidth="303" frameHeight="240"/>
+	<SubTexture name="Coiny Note Right0006" x="1208" y="243" width="294" height="240" frameX="0" frameY="0" frameWidth="303" frameHeight="240"/>
+	<SubTexture name="Coiny Note Right0007" x="1208" y="243" width="294" height="240" frameX="0" frameY="0" frameWidth="303" frameHeight="240"/>
+	<SubTexture name="Coiny Note Right0008" x="1208" y="243" width="294" height="240" frameX="0" frameY="0" frameWidth="303" frameHeight="240"/>
+	<SubTexture name="Coiny Note Right0009" x="1208" y="243" width="294" height="240" frameX="0" frameY="0" frameWidth="303" frameHeight="240"/>
+	<SubTexture name="Coiny Note Right0010" x="1208" y="243" width="294" height="240" frameX="0" frameY="0" frameWidth="303" frameHeight="240"/>
+	<SubTexture name="Coiny Note Right0011" x="1208" y="243" width="294" height="240" frameX="0" frameY="0" frameWidth="303" frameHeight="240"/>
+	<SubTexture name="Coiny Note Right0012" x="1208" y="243" width="294" height="240" frameX="0" frameY="0" frameWidth="303" frameHeight="240"/>
+	<SubTexture name="Coiny Note Right0013" x="1208" y="243" width="294" height="240" frameX="0" frameY="0" frameWidth="303" frameHeight="240"/>
+	<SubTexture name="Coiny Note Right0014" x="1208" y="243" width="294" height="240" frameX="0" frameY="0" frameWidth="303" frameHeight="240"/>
+	<SubTexture name="Coiny Note Right0015" x="1208" y="243" width="294" height="240" frameX="0" frameY="0" frameWidth="303" frameHeight="240"/>
+	<SubTexture name="Coiny Note Right0016" x="1208" y="243" width="294" height="240" frameX="0" frameY="0" frameWidth="303" frameHeight="240"/>
+	<SubTexture name="coiny Up note0000" x="1502" y="243" width="348" height="255"/>
+	<SubTexture name="coiny Up note0001" x="1502" y="243" width="348" height="255"/>
+	<SubTexture name="coiny Up note0002" x="0" y="498" width="346" height="253" frameX="0" frameY="-2" frameWidth="348" frameHeight="255"/>
+	<SubTexture name="coiny Up note0003" x="0" y="498" width="346" height="253" frameX="0" frameY="-2" frameWidth="348" frameHeight="255"/>
+	<SubTexture name="coiny Up note0004" x="0" y="498" width="346" height="253" frameX="0" frameY="-2" frameWidth="348" frameHeight="255"/>
+	<SubTexture name="coiny Up note0005" x="0" y="498" width="346" height="253" frameX="0" frameY="-2" frameWidth="348" frameHeight="255"/>
+	<SubTexture name="coiny Up note0006" x="0" y="498" width="346" height="253" frameX="0" frameY="-2" frameWidth="348" frameHeight="255"/>
+	<SubTexture name="coiny Up note0007" x="0" y="498" width="346" height="253" frameX="0" frameY="-2" frameWidth="348" frameHeight="255"/>
+	<SubTexture name="coiny Up note0008" x="0" y="498" width="346" height="253" frameX="0" frameY="-2" frameWidth="348" frameHeight="255"/>
+	<SubTexture name="coiny Up note0009" x="0" y="498" width="346" height="253" frameX="0" frameY="-2" frameWidth="348" frameHeight="255"/>
+	<SubTexture name="coiny Up note0010" x="0" y="498" width="346" height="253" frameX="0" frameY="-2" frameWidth="348" frameHeight="255"/>
+	<SubTexture name="coiny Up note0011" x="0" y="498" width="346" height="253" frameX="0" frameY="-2" frameWidth="348" frameHeight="255"/>
+	<SubTexture name="coiny Up note0012" x="0" y="498" width="346" height="253" frameX="0" frameY="-2" frameWidth="348" frameHeight="255"/>
+	<SubTexture name="coiny Up note0013" x="0" y="498" width="346" height="253" frameX="0" frameY="-2" frameWidth="348" frameHeight="255"/>
+</TextureAtlas>

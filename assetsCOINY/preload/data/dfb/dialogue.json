@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "coiny",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nice one!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "coiny",
+			"boxState": "normal",
+			"expression": "serious",
+			"text": "But I will win this time."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bop doo-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "coiny",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "Shh!!!"
+		}
+	]
+}

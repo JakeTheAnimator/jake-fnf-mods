@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Coinymad Idle Dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-2
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Coinymad NOTE LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-4
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Coinymad Note Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				10
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "coinymad Up note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-8
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Coinymad Down Note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Coinymad",
+	"position": [
+		150,
+		470
+	],
+	"healthicon": "coiny-mad",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		173,
+		84
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
