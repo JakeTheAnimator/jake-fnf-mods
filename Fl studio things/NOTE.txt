@@ -1,0 +1,11 @@
+As long as you have FL Studio 20.8.4 and up and the following things;
+
+Soundfonts:
+SGM-V2.01: https://musical-artifacts.com/artifacts/855
+Touhou: https://musical-artifacts.com/artifacts/433
+
+VSTs:
+OTT: https://splice.com/plugins/3788-ott-vst-au-by-xfer-records
+
+
+You should easily be able to easily open the FLPs!!
