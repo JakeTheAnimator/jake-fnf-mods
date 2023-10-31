@@ -7,6 +7,7 @@ SGM-V2.01: https://musical-artifacts.com/artifacts/855
 Touhou: https://musical-artifacts.com/artifacts/433
 
 VSTs:
+Kerovee: https://www.g200kg.com/jp/software/kerovee.html
 magical8bitplugin: https://ymck.net/app/magical-8bit-plug-en
 OTT: https://splice.com/plugins/3788-ott-vst-au-by-xfer-records
 
